@@ -1,1 +1,1 @@
-orknbierub# Rice-samples-EDA
+rknbierub# Rice-samples-EDA
