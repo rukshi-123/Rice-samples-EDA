@@ -1,1 +1,1 @@
-cgccccccgh## Rice-samples-EDA
+gccccccgh## Rice-samples-EDA
