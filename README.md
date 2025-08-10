@@ -1,1 +1,1 @@
-rugi## Rice-samples-EDA
+ugi## Rice-samples-EDA
