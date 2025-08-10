@@ -1,1 +1,1 @@
-ferugi## Rice-samples-EDA
+erugi## Rice-samples-EDA
