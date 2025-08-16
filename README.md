@@ -1,1 +1,1 @@
-s;ndcein;oenv## Rice-samples-EDA
+;ndcein;oenv## Rice-samples-EDA
